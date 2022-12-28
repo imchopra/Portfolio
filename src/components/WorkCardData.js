@@ -17,7 +17,7 @@ const ProjectCardData = [
         projectimage: "project3.png",
         title: "G1 FITNESS, THE WEBSITE FOR THE GYM",
         text: "Customers of the GYM can purchase memberships and gain access to meal plans through this website, which was created specifically for them..HTML, CSS, and JavaScript were used in its creation.",
-        view: ""
+        view: "https://imchopra.github.io/Fitness/"
     },
 ];
 
