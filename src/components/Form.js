@@ -23,7 +23,10 @@ const Form = () => {
         title: 'Message Sent',
       })
 
-      // window.location.reload();
+      setTimeout( 
+  function() {
+    window.location.reload(true);
+  }, 800);
       
   };
   return (
