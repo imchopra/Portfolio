@@ -26,7 +26,7 @@ const Form = () => {
       setTimeout( 
   function() {
     window.location.reload(true);
-  }, 800);
+  }, 80);
       
   };
   return (
