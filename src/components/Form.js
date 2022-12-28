@@ -22,7 +22,8 @@ const Form = () => {
         icon: "success",
         title: 'Message Sent',
       })
-      window.location.reload();
+
+      // window.location.reload();
       
   };
   return (
