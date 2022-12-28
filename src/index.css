@@ -55,3 +55,7 @@ ul{
   color: rgb(239, 255, 151);
   transition: 0.3s;
 }
+.social :hover{
+  transform: scale(0.8);
+	transition: 0.5s;
+}
