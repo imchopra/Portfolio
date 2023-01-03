@@ -12,8 +12,8 @@ const Footer = () => {
                 <div>
                     <p>246 Hillcrest Road</p>
                     <p>Cambridge, ON N3H1B2</p>
-                </div>
-            </div> */}
+                </div> */}
+            </div>
             <div className="phone">
             <a href="tel:647-765-0265"> <h4><FaPhone size={20} style={{ color:"#fff", marginRight:"2rem" }}/>
                 +1 647-765-0265</h4> </a>
