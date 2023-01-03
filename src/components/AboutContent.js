@@ -16,6 +16,7 @@ const AboutContent = () => {
 Graduate of Conestoga College in Kitchener, Ontario I have completed the Web Design and Development Program. 
 Courses Including:
 <br></br>
+<br></br>
 • JAVASCRIPT PROGRAMMING
 <br></br>
 • RESPONSIVE SITE DESIGN
