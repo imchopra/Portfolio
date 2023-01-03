@@ -9,7 +9,7 @@
 }
 
 .about .left{
-    text-align: center;
+    /* text-align: center; */
     margin: auto;
     padding: 1rem;
     max-width: 600px;
