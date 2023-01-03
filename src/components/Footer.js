@@ -8,12 +8,12 @@ const Footer = () => {
       <div className='footer-container'>
         <div className='left'>
             <div className='location'>
-            <a href="https://goo.gl/maps/JN988LCAp66xVJhD6" target="_blank" ><FaHome size={20} style={{ color:"#fff", marginRight:"2rem" }}/></a>
+            {/* <a href="https://goo.gl/maps/JN988LCAp66xVJhD6" target="_blank" ><FaHome size={20} style={{ color:"#fff", marginRight:"2rem" }}/></a>
                 <div>
                     <p>246 Hillcrest Road</p>
                     <p>Cambridge, ON N3H1B2</p>
                 </div>
-            </div>
+            </div> */}
             <div className="phone">
             <a href="tel:647-765-0265"> <h4><FaPhone size={20} style={{ color:"#fff", marginRight:"2rem" }}/>
                 +1 647-765-0265</h4> </a>
