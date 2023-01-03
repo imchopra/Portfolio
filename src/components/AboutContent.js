@@ -12,6 +12,7 @@ const AboutContent = () => {
             {/* <p>Hi World, welcome! I'm Vasu Chopra, a Toronto based front-end web developer. To create attractive, usable, and accessible websites and applications, I love integrating the worlds of logic with creative design. Technology sets the pace; civilization keeps up. I place a lot of value on the efforts being made to increase inclusivity and diversity in the sector through representation.  I'm eager to take the plunge and advance my career with the best in the industry.</p> */}
             <p>My name is Vasu and I am a freelance web developer based in Toronto, Canada.
 <br></br>
+<br></br>
 Graduate of Conestoga College in Kitchener, Ontario I have completed the Web Design and Development Program. 
 Courses Including:
 <br></br>
@@ -35,7 +36,7 @@ Courses Including:
 <br></br>
 • PROGRAMMING WITH .NET
 <br></br>
-
+<br></br>
 My passion for creativity and diverse attention to detail, allows me to create attractive, usable, and accessible websites and applications. This includes full front-end design, brand identity, and graphics. Keeping up with new and innovative trends in todays social media platforms.</p>
             <Link to="/contact">
                 <button className="btn">Contact</button>
