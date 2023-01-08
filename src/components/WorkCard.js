@@ -4,6 +4,7 @@ import React from 'react';
 
 const WorkCard = (props) => {
   return (
+ 
     <div className="project-card">
       <img src={`images/${props.projectimage}`} alt="My project Image data"/>
       <h2 className="project-title">{props.title}</h2>
@@ -14,6 +15,7 @@ const WorkCard = (props) => {
               </div>
           </div>
       </div>
+     
   )
 }
 
