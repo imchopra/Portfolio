@@ -1,12 +1,12 @@
 
 
 const ProjectCardData = [
-    {
-        projectimage: "project4.png",
-        title: "My online portfolio in React ",
-        text: "I have utilized a variety of libraries, including Elfsight, Email JS, and Sweet alert.This website is hosted by Vercel and GitHub, and I got my domain name via IONOS.com. So if you want to learn it go check it.",
-        view: "https://www.vasuchopra.com/"
-    },
+    // {
+    //     // projectimage: "project4.png",
+    //     // title: "My online portfolio in React ",
+    //     // text: "I have utilized a variety of libraries, including Elfsight, Email JS, and Sweet alert.This website is hosted by Vercel and GitHub, and I got my domain name via IONOS.com. So if you want to learn it go check it.",
+    //     // view: "https://www.vasuchopra.com/"
+    // },
     {
         projectimage: "project1.png",
         title: "Ecommerce Website in Wordpress",
